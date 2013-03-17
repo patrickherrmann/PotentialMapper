@@ -8,4 +8,4 @@ The output is similar to a heat map. Each position on the two dimensional plan i
 Here is an example containing 40 random data points:
 
 And another containing 400 random data points:
-![400 data points](http://flic.kr/p/e4435q)
+![400 data points](http://farm9.staticflickr.com/8511/8567179808_10835d2e63.jpg)
