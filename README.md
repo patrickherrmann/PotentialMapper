@@ -3,8 +3,7 @@ This Java utility creates a visual representation of two dimensional data sets. 
 *   a location defined in *x* and *y* coordinates, and
 *   a positive or negative value.
 
-The output is similar to a heat map. Each position on the two dimensional plan is shaded based on its proximity to data points.
-
+The output is similar to a heat map. Each position on the two dimensional plane is shaded as a function of the distance to each data point as well as each data point's value. Thus similarly colored bands represent curves of similar potential value.
 
 
 Here are some examples containing 4, 40, and 400 random data points.
